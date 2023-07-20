@@ -1,4 +1,5 @@
 // Busy days at work
+// Again, busy day
 function memoize(fn) {
     
    const cache = {};
