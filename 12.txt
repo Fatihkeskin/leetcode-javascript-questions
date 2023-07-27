@@ -1,3 +1,4 @@
+// Busy day
 function memoize(fn) {
     
    const cache = {};
