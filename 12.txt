@@ -1,4 +1,3 @@
-// edit again
 function memoize(fn) {
     
    const cache = {};
